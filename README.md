@@ -45,7 +45,7 @@
   ## Clone
 
   ```
-  git clone git@github.com:DiogoRealles/portfolio.git
+  git clone git@github.com:marcondesjm/portfolio.git
   ```
 </div>
 
