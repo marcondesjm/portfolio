@@ -53,8 +53,6 @@
 <footer>
   <p>Gostou? deixa seu like!</p>
   <p>Estou disponível para realizar seus projetos</p>
-  <a href="mailto:marcondes.machado.ti@gmail.com"><img src="https://img.shields.io/badge/diogorealles@hotmail.com-1F2D52?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/marcondes-machado-29761823b//"><img src="https://img.shields.io/badge//Diogo Realles-1F2D52?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  
+
   <p><strong>[Marcondes Machado](https://marcondesjm.github.io/portfolio/) | 2024</strong></p>
 </footer>
